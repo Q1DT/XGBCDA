@@ -1,7 +1,11 @@
 # XGBCDA
 This is the implementation of paper "XGBCDA: A multiple heterogeneous networks-based method for predicting circRNA-disease associations".
 
-Dataset:
+## Related Files
+
+### Dataset:
+
+```
 ========================================================================================
 | FILE NAME            | DESCRIPTION                                                   |
 ========================================================================================
@@ -12,11 +16,11 @@ Dataset:
 |circRNA number ID.txt | id of circRNA.                                                |
 |disease number ID.txt | id of disease.                                                |
 |exoRBase-circR2disease id conversion.txt | Unify the format of circRNA id data.       |
-
-Code:
+```
+### Code:
 ========================================================================================
 | FILE NAME       | DESCRIPTION                                                        |
 ========================================================================================
 | XGBCDA.py       | function predicting potential circRNA-disease associations.        |
 | feature_extract.py  | function extracting feature                                    |
-
+```

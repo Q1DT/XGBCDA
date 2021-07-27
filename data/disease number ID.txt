@@ -1,0 +1,88 @@
+1	Pancreatic ductal adenocarcinoma
+2	Primary great saphenous vein varicosities
+3	Primary hepatic carcinoma
+4	Lung cancer
+5	Essential hypertension
+6	Gestational diabetes mellitus
+7	Non-small cell lung cancer
+8	Systemic lupus erythematosus
+9	Pancreatic cancer
+10	Glioma
+11	Acne
+12	Bladder cancer
+13	Breast cancer
+14	Colorectal cancer
+15	Silicosis
+16	Ovarian endometriosis
+17	Hepatocellular carcinoma
+18	Lupus nephritis
+19	Lung adenocarcinoma
+20	Facet joint osteoarthritis
+21	Oral squamous cell carcinoma
+22	Gastric cancer
+23	Tuberculosis
+24	Clear cell renal cell carcinoma
+25	Intervertebral disc degeneration
+26	Glioblastoma multiforme
+27	Cervical cancer
+28	Osteosarcoma
+29	Endometrial cancer
+30	Cholangiocarcinoma
+31	Rheumatoid arthritis
+32	Hepatoblastoma
+33	Acute ischemic stroke
+34	Hepatic steatosis
+35	Pulmonary tuberculosis
+36	Cardiovascular disease
+37	Osteoarthritis
+38	Acute myeloid leukemia
+39	Diabetes retinopathy
+40	Intracranial aneurysms
+41	Coronary artery disease
+42	Type 2 diabetes mellitus
+43	Atherosclerosis
+44	Prostate cancer
+45	Ebola virus disease
+46	Repeated implantation failure
+47	Esophageal squamous cell carcinoma
+48	Infantile hemangioma
+49	Primary biliary cholangitis
+50	Liver cancer
+51	Myocardial infarction
+52	Diabetes mellitus
+53	Moyamoya disease
+54	Active pulmonary tuberculosis
+55	Triple negative breast cancer
+56	Radiation-induced liver fibrosis
+57	Multiple sclerosis
+58	Leukoaraiosis
+59	Oral squamous cell carcinomas
+60	Diabetic retinopathy
+61	T2DM with depression
+62	Carotid disease and ischemic stroke
+63	Hypopharyngeal squamous cell carcinoma
+64	Thoracic aortic dissection
+65	Hypertension
+66	Myocardial senescence
+67	Glioblastoma
+68	Cervical carcinoma
+69	Papillary thyroid carcinoma
+70	Heart disease
+71	Hirschsprung disease
+72	Alzheimer¡¯s disease
+73	Pre-eclampsia
+74	Multiple system atrophy
+75	Colon cancer
+76	Dilated cardiomyopathy
+77	Cutaneous squamous cell carcinoma
+78	Major depressive disorder
+79	Esophageal cancer
+80	Basal cell carcinoma
+81	Bladder urothelial carcinoma
+82	Kidney clear cell carcinoma
+83	Prostate adenocarcinoma
+84	Laryngeal squamous cell cancer tissues
+85	Immunosenescence
+86	Ischaemic heart disease
+87	Nervous inflammatory diseases or immune disorders
+88	Atherosclerotic vascular disease
